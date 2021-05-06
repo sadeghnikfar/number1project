@@ -1,0 +1,268 @@
+html {
+    font-size: 100%;
+    font-family: yekan;
+}
+ 
+body {
+    background: #FFCDB2;
+}
+
+.meshkii {
+    background-color: #6D6875;
+    color: white;
+    display: block;
+    width: 100%;
+    height: 50px;
+    
+    
+}
+
+.header1 {
+    color: white;
+    position: absolute;
+    top: 15px;
+    margin-right: 15px;}
+
+.header2 {
+    position: absolute;
+    top: 15px;
+    left: 1333px; 
+    color: white;   
+}
+
+.header-asli {
+ background-color: #e9b79d;
+ width: 100%;
+ height: 300px;
+}
+
+#logo {
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    right: 100px;
+    top: 106px;
+}
+
+form {
+    position: absolute;
+    bottom: 538px;
+    right: 800px;
+
+}
+
+#title {
+    position: absolute;
+    bottom: 543px;
+    right: 317px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    filter: drop-shadow(2px 1px 1px black);
+
+}
+
+.join {
+    width: 200px;
+    height: 35px;
+    background-color: rgb(109 104 117);
+    border: 1px solid #49464d;
+    border-radius: 5px;
+}
+
+.join::placeholder{
+    font-family: yekan;
+    color: white;
+    text-align: center;
+}
+
+.go {
+    width: 60px;
+    height: 40px;
+    font-family: yekan;
+    color: white;
+    background-color: rgb(109 104 117);
+    text-align: center;
+    border-radius: 5px;
+}
+
+.header-2 {
+background-color: #E5989B;
+width: 100%;
+height: 300px;
+}
+
+.nav2 {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+    margin-right: 2rem;
+    padding-top: 1rem;
+    color: white;
+    font-size: 1.2rem;
+}
+ 
+.nav2item {
+    margin-left: 1rem;
+    color: white;
+}
+
+#title2 {
+    font-size: 2rem;
+    position: absolute;
+    color: white;
+    right: 149px;
+    bottom: 256px;
+    font-weight: bold;
+    filter: drop-shadow(2px 1px 1px black);
+}
+
+#text1 {
+    font-size: 1rem;
+    position: absolute;
+    color: white;
+    right: 246px;
+    bottom: 219px;
+    font-weight: bold;
+}
+
+.himage {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 200px;
+    bottom: 123px;
+}
+
+#section {
+    background-color: #FFB4A2;
+    width: 100%;
+    height: 500px;
+}
+
+#titlebox {
+    color: white;
+    font-size: 1.2rem;
+    filter: drop-shadow(2px 1px 1px black);
+    padding: 1rem;
+    font-weight: bold;
+}
+
+.boximage {
+    width: 180px;
+    height: 180px;
+    margin: 1.2rem;
+    border-radius: 9px;
+
+}
+
+.box1 {
+    position: absolute;
+    left: 50px;
+    margin: 1rem;
+    background-color: white;
+    align-content: center;
+    display: inline-block;
+    width: 220px;
+    height: 330px;
+    border-radius: 10px;
+    
+}
+
+.box2 {
+    position: absolute;
+    left: 350px;
+    margin: 1rem;
+    background-color: white;
+    align-content: center;
+    display: inline-block;
+    width: 220px;
+    height: 330px;
+    border-radius: 10px;
+}
+.box3 {
+    position: absolute;
+    left: 660px;
+    margin: 1rem;
+    background-color: white;
+    align-content: center;
+    display: inline-block;
+    width: 220px;
+    height: 330px;
+    border-radius: 10px; 
+}
+
+.box4 {
+    position: absolute;
+    left: 960px;
+    margin: 1rem;
+    background-color: white;
+    align-content: center;
+    display: inline-block;
+    width: 220px;
+    height: 330px;
+    border-radius: 10px;
+}
+
+.boxtitle {
+    margin-top: -0.5rem;
+    text-align: center;
+}
+
+.boxp {
+    margin-top: 1rem;
+    text-align: center;
+    color: rgb(63, 62, 62);
+}
+
+footer {
+    width: 100%;
+    height: 300px;
+    background-color: #48444c;
+}
+
+.footer1 {
+    padding-top: 30px;
+    color: white;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.footer2 {
+    color: white;
+    position: absolute;
+    bottom: -609px;
+    right: 500px;
+
+}
+
+.footer3 {
+    color:white;
+    position: absolute;
+    bottom: -607px;
+    right: 826px;
+}
+
+.footerh {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 2rem;
+    border-bottom: white;
+       
+}
+
+.footerp {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 2rem;
+    border-bottom: white;
+    border-style: solid;
+    padding-bottom: 20px;
+    border-style: outset;
+
+}
